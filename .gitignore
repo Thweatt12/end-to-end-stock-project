@@ -3,3 +3,4 @@ data/
 logs/
 __pycache__/
 dbt_stocks/logs/
+infra/.env
